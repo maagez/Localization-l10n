@@ -3928,10 +3928,10 @@ msgstr ""
 # @ Avada
 #. translators: Number.
 #: includes/class-avada-woocommerce.php:1186
-msgid "You Have %d Item In Your Cart"
+msgid "You Have %s Item In Your Cart"
 msgid_plural "You Have %s Items In Your Cart"
-msgstr[0] "Vous avez %d article dans votre panier"
-msgstr[1] "Vous avez %d articles dans votre panier"
+msgstr[0] "Vous avez %s article dans votre panier"
+msgstr[1] "Vous avez %s articles dans votre panier"
 
 # @ Avada
 #: includes/class-avada-woocommerce.php:1312
